@@ -1,0 +1,6 @@
+# made by tools/make_update.py for psiOS-release (test)
+build=2
+version=HW6.8-2
+size=2032144
+file=psion.bin
+sha256=9ce2b99119fbf3499f718fdef0a73d49422d11d9c0d33ab9472ef929520cc833
